@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for analysis of ultra-slow tail wagging in developing Xenopus laevis tadpoles"
+type: software
+authors:
+  - family-names: "Kato"
+    given-names: "Soichiro"
+repository-code: "https://github.com/skato-lab/xenopus-tail-wagging-analysis"
+abstract: "Python scripts for LOESS detrending, FFT-based periodicity analysis, and continuous wavelet transform analysis of tail-tip motion in developing Xenopus laevis tadpoles."
+license: "MIT"
