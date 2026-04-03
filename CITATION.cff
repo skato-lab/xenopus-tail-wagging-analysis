@@ -8,3 +8,6 @@ authors:
 repository-code: "https://github.com/skato-lab/xenopus-tail-wagging-analysis"
 abstract: "Python scripts for LOESS detrending, FFT-based periodicity analysis, and continuous wavelet transform analysis of tail-tip motion in developing Xenopus laevis tadpoles."
 license: "MIT"
+version: "1.0.1"
+doi: "10.5281/zenodo.19399806"
+date-released: 2026-04-03
